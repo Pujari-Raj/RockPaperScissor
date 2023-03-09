@@ -1,4 +1,4 @@
-## This is QRCodeGenerator App which was given as task in FSJSBootcamp.
+## This is RockPaperScissor Gamer which was given as task in FSJSBootcamp.
 
 
 Technologies/ Tools Used:
